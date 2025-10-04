@@ -1,4 +1,6 @@
 body{
     margin: 0;
-    display
+    display:flex;
+    height:100vh;
+    background:rgb(20,20,20);
 }
